@@ -1,0 +1,29 @@
+# Compiled Java files
+*.class
+
+# Build folders
+bin/
+out/
+target/
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Environment variables
+.env
+
+# Database backups (optional)
+*.sql.bak
